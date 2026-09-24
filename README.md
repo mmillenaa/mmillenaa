@@ -12,7 +12,7 @@
 - <img src="icons/README.md/study.png" width="22" align="center" alt="Study"> **Studies:** Exploring semantic web ontologies (CIDOC-CRM), legal data, and structured databases.
 
 ### <img src="icons/README.md/reps.png" width="26" align="center" alt="Projects"> Featured Projects
-[Atlas of Resistance](https://github.com/mmillenaa/atlas-of-resistance), [Mnema 1.0](https://github.com/mmillenaa/mnema), [Arquivivo](https://github.com/mmillenaa/arquivivo), and [Inventory and Statistics](https://github.com/mmillenaa/inventory-and-statistics). <img src="icons/README.md/mnema.png" width="22" align="center" alt="Mnema"> <img src="icons/README.md/arquivivo.png" width="22" align="center" alt="Arquivivo"> <img src="icons/README.md/inventory.png" width="22" align="center" alt="Inventory">
+[Atlas of Resistance](https://github.com/mmillenaa/atlas-of-resistance), [Mnema 1.0](https://github.com/mmillenaa/mnema), [Arquivivo](https://github.com/mmillenaa/arquivivo), and [Inventory and Statistics](https://github.com/mmillenaa/inventory-and-statistics). <img src="icons/README.md/mnema.png" width="22" align="center" alt="Mnema"> <img src="icons/README.md/arquivivo.png" width="22" align="center" alt="Arquivivo"> <img src="icons/README.md/inventory.jpeg" width="22" align="center" alt="Inventory">
 
 ### Languages & Technologies
 
