@@ -30,13 +30,7 @@
 ---
 
 ### <img src="icons/README.md/reps.jpeg" width="26" align="center" alt="Projects"> Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| <img src="icons/README.md/atlas-of-resistance.jpeg" width="24" align="center" alt="Atlas"> **[Atlas of Resistance](https://github.com/mmillenaa/atlas-of-resistance)** | A knowledge graph platform (CIDOC-CRM) mapping the state’s repressive apparatus during the dictatorship. | `R` `SPARQL` |
-| <img src="icons/README.md/mnema.jpeg" width="24" align="center" alt="Mnema"> **[Mnema 1.0](https://github.com/mmillenaa/mnema)** | A lightweight tool for batch renaming digital files in historical collections (FGV Law SP). | `R` |
-| <img src="icons/README.md/arquivivo.jpeg" width="24" align="center" alt="Arquivivo"> **[Arquivivo](https://github.com/mmillenaa/arquivivo)** | An educational game about archival cataloging, preservation, and protecting collective memory. | `JavaScript` |
-| <img src="icons/README.md/inventory.jpeg" width="24" align="center" alt="Inventory"> **[Inventory and Statistics](https://github.com/mmillenaa/inventory-and-statistics)** | An application designed for statistical analyses of structured archival description databases. | `Python` |
+[Atlas of Resistance](https://github.com/mmillenaa/atlas-of-resistance), [Mnema 1.0](https://github.com/mmillenaa/mnema), [Arquivivo](https://github.com/mmillenaa/arquivivo) e [Inventory and Statistics](https://github.com/mmillenaa/inventory-and-statistics)
 
 ---
 
@@ -58,8 +52,3 @@ Franco, M. M. (2026). *Ideias para a organização de fontes históricas em Dire
 <a href="https://bv.fapesp.br/pt/pesquisador/743339/millena-miranda-franco/"><img src="https://img.shields.io/badge/BV_FAPESP-20B2AA?style=for-the-badge&logoColor=white" alt="BV FAPESP" /></a>
 <a href="https://lattes.cnpq.br/3848824456283762"><img src="https://img.shields.io/badge/Lattes-34495E?style=for-the-badge&logoColor=white" alt="Lattes" /></a>
 
----
-
-<div align="center">
-  <img src="icons/README.md/thanks.jpeg" alt="Thank you!" />
-</div>
