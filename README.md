@@ -17,11 +17,7 @@
 [Organization and public availability of documentary collection involving state violence](https://bv.fapesp.br/pt/bolsas/230753/organizacao-e-disponibilizacao-publica-de-acervo-documental-envolvendo-violencia-de-estado/)
 
 ### <img src="icons/README.md/reps.jpeg" width="26" align="center" alt="Projects"> Featured Projects
-
-- [Atlas of Resistance](https://github.com/mmillenaa/atlas-of-resistance)
-- [Mnema 1.0](https://github.com/mmillenaa/mnema)
-- [Arquivivo](https://github.com/mmillenaa/arquivivo)
-- [Inventory and Statistics](https://github.com/mmillenaa/inventory-and-statistics)
+[Atlas of Resistance](https://github.com/mmillenaa/atlas-of-resistance), [Mnema 1.0](https://github.com/mmillenaa/mnema), [Arquivivo](https://github.com/mmillenaa/arquivivo), and [Inventory and Statistics](https://github.com/mmillenaa/inventory-and-statistics).
 
 ### Languages & Technologies
 
