@@ -7,14 +7,9 @@
 <img src="icons/README.md/usp.jpeg" width="22" align="center" alt="USP"> I am a PhD candidate in Education at the University of São Paulo (USP) and an undergraduate student in Law. My research explores the intersection of education and state violence, the memory of the Brazilian civil-military dictatorship, and the preservation of historical collections. I leverage programming and data science to build tools for archival curation, knowledge organization, and social data visualization.
 
 ### What I am currently working on
-
-- <img src="icons/README.md/research.jpeg" width="22" align="center" alt="Research"> **Research:** Organizing and describing documentary archives related to state violence and Human Rights.
+- <img src="icons/README.md/research.jpeg" width="22" align="center" alt="Research"> **Research:** Organizing and describing documentary archives related to state violence and Human Rights. The latest funded project at FAPESP was this one [here.](https://bv.fapesp.br/pt/bolsas/230753/organizacao-e-disponibilizacao-publica-de-acervo-documental-envolvendo-violencia-de-estado/)
 - <img src="icons/README.md/dev.jpeg" width="22" align="center" alt="Development"> **Development:** Building open-source tools for digital humanities, batch processing, and archival preservation.
 - <img src="icons/README.md/study.jpeg" width="22" align="center" alt="Study"> **Studies:** Exploring semantic web ontologies (CIDOC-CRM), legal data, and structured databases.
-
-### Latest Funded Project at FAPESP (2025–2026)
-
-[Organization and public availability of documentary collection involving state violence](https://bv.fapesp.br/pt/bolsas/230753/organizacao-e-disponibilizacao-publica-de-acervo-documental-envolvendo-violencia-de-estado/)
 
 ### <img src="icons/README.md/reps.jpeg" width="26" align="center" alt="Projects"> Featured Projects
 [Atlas of Resistance](https://github.com/mmillenaa/atlas-of-resistance), [Mnema 1.0](https://github.com/mmillenaa/mnema), [Arquivivo](https://github.com/mmillenaa/arquivivo), and [Inventory and Statistics](https://github.com/mmillenaa/inventory-and-statistics).
