@@ -16,10 +16,13 @@
 
 ### Latest publications
 
-Franco, M. M. (2021). Apropriação das classes nouvelles francesas: experimentações educacionais brasileiras (1949-1969). *RIDPHE_R Revista Iberoamericana do Patrimônio Histórico-Educativo*, 7, e021036-19. DOI: https://doi.org/10.20888/ridpher.v7i00.16064
 Franco, A. V. T. M., Franco, M. M., & Franco, I. M. (2026). Unequal sanitation in the Global South: infrastructure and governance shortfalls in northern Minas Gerais, Brazil. *Utilities Policy*. DOI: https://doi.org/10.1016/j.jup.2026.102343
+
 Franco, M. M. (2026). *Ginásios Vocacionais noturnos comparando a efetivação de propostas para a formação cidadã de pessoas jovens e adultas trabalhadoras (1968-9)* [Comparing the implementation of projects for Citizenship Education in Evening Vocational Schools for Youth and Adult Workers (1968–9)] (1st ed.). São Paulo: Millena Miranda Franco. ISBN: [978-65-01-94968-0](https://www.cblservicos.org.br/isbn/pesquisa/?page=1&q=978-65-01-94968-0&filtrar_por%5B0%5D=isbn&ord%5B0%5D=relevancia&dir%5B0%5D=asc)
+
 Franco, M. M. (2026). *Ideias para a organização de fontes históricas em Direito e Violência de Estado: documento nato-digital e digitalizado* [Ideas for Organizing Historical Sources in Law and State Violence: Born-Digital and Digitized Documents]. DOI: [10.5281/zenodo.22150328](https://doi.org/10.5281/zenodo.22150328)
+
+Franco, M. M. (2021). Apropriação das classes nouvelles francesas: experimentações educacionais brasileiras (1949-1969). *RIDPHE_R Revista Iberoamericana do Patrimônio Histórico-Educativo*, 7, e021036-19. DOI: https://doi.org/10.20888/ridpher.v7i00.16064
 
 ### Let's connect
 
