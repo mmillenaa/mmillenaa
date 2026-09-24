@@ -13,17 +13,6 @@
 &nbsp;&nbsp;<img src="icons/README.md/dev.jpeg" width="22" align="center" alt="Development"> **Development:** Building open-source tools for digital humanities, batch processing, and archival preservation.  
 &nbsp;&nbsp;<img src="icons/README.md/study.jpeg" width="22" align="center" alt="Study"> **Studies:** Exploring semantic web ontologies (CIDOC-CRM), legal data, and structured databases.
 
-### Languages & Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/R-D86040?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Python-D86040?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SPARQL-D86040?style=for-the-badge&logo=databricks&logoColor=white" alt="SPARQL" />
-  <img src="https://img.shields.io/badge/JavaScript-D86040?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-D86040?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-D86040?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
-
 ### <img src="icons/README.md/reps.jpeg" width="26" align="center" alt="Projects"> Featured Projects
 [Atlas of Resistance](https://github.com/mmillenaa/atlas-of-resistance), [Mnema 1.0](https://github.com/mmillenaa/mnema), [Arquivivo](https://github.com/mmillenaa/arquivivo), and [Inventory and Statistics](https://github.com/mmillenaa/inventory-and-statistics)
 
@@ -37,11 +26,21 @@ Franco, M. M. (2026). *Ginásios Vocacionais noturnos comparando a efetivação 
 
 Franco, M. M. (2026). *Ideias para a organização de fontes históricas em Direito e Violência de Estado: documento nato-digital e digitalizado* [Ideas for Organizing Historical Sources in Law and State Violence: Born-Digital and Digitized Documents]. DOI: [10.5281/zenodo.22150328](https://doi.org/10.5281/zenodo.22150328)
 
----
 ### Let's connect
 
 <a href="https://orcid.org/0000-0001-6556-9169"><img src="https://img.shields.io/badge/ORCiD-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 <a href="https://mmillenaa.github.io/millena/"><img src="https://img.shields.io/badge/Full_Curriculum-D86040?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
 <a href="https://bv.fapesp.br/pt/pesquisador/743339/millena-miranda-franco/"><img src="https://img.shields.io/badge/BV_FAPESP-20B2AA?style=for-the-badge&logoColor=white" alt="BV FAPESP" /></a>
 <a href="https://lattes.cnpq.br/3848824456283762"><img src="https://img.shields.io/badge/Lattes-34495E?style=for-the-badge&logoColor=white" alt="Lattes" /></a>
+
+### Languages & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/R-D86040?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Python-D86040?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SPARQL-D86040?style=for-the-badge&logo=databricks&logoColor=white" alt="SPARQL" />
+  <img src="https://img.shields.io/badge/JavaScript-D86040?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-D86040?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-D86040?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
 
