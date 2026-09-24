@@ -10,7 +10,7 @@
 
 ### What I am currently working on
 
-- <img src="icons/README.md/research.jpeg" width="22" align="center" alt="Research"> **Research:** Organizing and describing documentary archives related to state violence and Human Rights.
+- <img src="icons/README.md/research.jpeg" width="22" align="center" alt="Research"> **Research:** Organizing and describing documentary archives related to state violence and Human Rights. Latest funded project by FAPESP can be visited [here].(https://bv.fapesp.br/pt/bolsas/230753/organizacao-e-disponibilizacao-publica-de-acervo-documental-envolvendo-violencia-de-estado/)
 - <img src="icons/README.md/dev.jpeg" width="22" align="center" alt="Development"> **Development:** Building open-source tools for digital humanities, batch processing, and archival preservation.
 - <img src="icons/README.md/study.jpeg" width="22" align="center" alt="Study"> **Studies:** Exploring semantic web ontologies (CIDOC-CRM), legal data, and structured databases.
 
@@ -42,22 +42,15 @@
 
 ### Latest Publications
 
-Franco, M. M. (2021). Apropriação das classes nouvelles francesas: experimentações educacionais brasileiras (1949-1969). *RIDPHE_R Revista Iberoamericana do Patrimônio Histórico-Educativo*, 7, e021036-19. Retrieved from PDF.
+Franco, M. M. (2021). Apropriação das classes nouvelles francesas: experimentações educacionais brasileiras (1949-1969). *RIDPHE_R Revista Iberoamericana do Patrimônio Histórico-Educativo*, 7, e021036-19. DOI: https://doi.org/10.20888/ridpher.v7i00.16064
 
 Franco, A. V. T. M., Franco, M. M., & Franco, I. M. (2026). Unequal sanitation in the Global South: infrastructure and governance shortfalls in northern Minas Gerais, Brazil. *Utilities Policy*. DOI: https://doi.org/10.1016/j.jup.2026.102343
 
-Franco, M. M. (2026). *Ginásios Vocacionais noturnos comparando a efetivação de propostas para a formação cidadã de pessoas jovens e adultas trabalhadoras (1968-9)* [Comparing the implementation of projects for Citizenship Education in Evening Vocational Schools for Youth and Adult Workers (1968–9)] (1st ed.). São Paulo: Millena Miranda Franco. ISBN: 978-65-01-94968-0.
+Franco, M. M. (2026). *Ginásios Vocacionais noturnos comparando a efetivação de propostas para a formação cidadã de pessoas jovens e adultas trabalhadoras (1968-9)* [Comparing the implementation of projects for Citizenship Education in Evening Vocational Schools for Youth and Adult Workers (1968–9)] (1st ed.). São Paulo: Millena Miranda Franco. ISBN: [978-65-01-94968-0.](https://www.cblservicos.org.br/isbn/pesquisa/?page=1&q=978-65-01-94968-0&filtrar_por%5B0%5D=isbn&ord%5B0%5D=relevancia&dir%5B0%5D=asc)
 
-Franco, M. M. (2026). *Ideias para a organização de fontes históricas em Direito e Violência de Estado: documento nato-digital e digitalizado* [Ideas for Organizing Historical Sources in Law and State Violence: Born-Digital and Digitized Documents]. DOI: 10.5281/zenodo.22150328
-
----
-
-### Latest Funded Project at FAPESP (2025–2026)
-
-[Organization and public availability of documentary collection involving state violence](https://bv.fapesp.br/pt/bolsas/230753/organizacao-e-disponibilizacao-publica-de-acervo-documental-envolvendo-violencia-de-estado/)
+Franco, M. M. (2026). *Ideias para a organização de fontes históricas em Direito e Violência de Estado: documento nato-digital e digitalizado* [Ideas for Organizing Historical Sources in Law and State Violence: Born-Digital and Digitized Documents]. DOI: [10.5281/zenodo.22150328](https://doi.org/10.5281/zenodo.22150328)
 
 ---
-
 ### Let's connect
 
 <a href="https://orcid.org/0000-0001-6556-9169"><img src="https://img.shields.io/badge/ORCiD-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
