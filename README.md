@@ -10,7 +10,7 @@
 
 ### What I am currently working on
 
-- <img src="icons/README.md/research.jpeg" width="22" align="center" alt="Research"> **Research:** Organizing and describing documentary archives related to state violence and Human Rights. Latest funded project by FAPESP can be visited [here].(https://bv.fapesp.br/pt/bolsas/230753/organizacao-e-disponibilizacao-publica-de-acervo-documental-envolvendo-violencia-de-estado/)
+- <img src="icons/README.md/research.jpeg" width="22" align="center" alt="Research"> **Research:** Organizing and describing documentary archives related to state violence and Human Rights. Latest funded project by FAPESP can be visited [here](https://bv.fapesp.br/pt/bolsas/230753/organizacao-e-disponibilizacao-publica-de-acervo-documental-envolvendo-violencia-de-estado/)
 - <img src="icons/README.md/dev.jpeg" width="22" align="center" alt="Development"> **Development:** Building open-source tools for digital humanities, batch processing, and archival preservation.
 - <img src="icons/README.md/study.jpeg" width="22" align="center" alt="Study"> **Studies:** Exploring semantic web ontologies (CIDOC-CRM), legal data, and structured databases.
 
