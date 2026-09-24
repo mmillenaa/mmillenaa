@@ -3,7 +3,7 @@
 
 > <img src="icons/README.md/usp.png" width="26" align="center" alt="USP"> I am a PhD candidate in Education at the University of São Paulo (USP) and an undergraduate student in Law. My research intersects education and state violence, the memory of the Brazilian civil-military dictatorship, and the preservation of historical collections. I leverage programming and data science to build tools for archival curation, knowledge organization, and social data visualization.
 
-### Languages & Technologies
+### Languages & technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/R-D86040?style=for-the-badge&logo=r&logoColor=white" alt="R" />
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/HTML5-D86040?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-### Latest Publications
+### Latest publications
 
 Franco, M. M. (2021). Apropriação das classes nouvelles francesas: experimentações educacionais brasileiras (1949-1969). *RIDPHE_R Revista Iberoamericana do Patrimônio Histórico-Educativo*, 7, e021036-19. DOI: https://doi.org/10.20888/ridpher.v7i00.16064
 
