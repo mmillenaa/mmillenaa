@@ -1,6 +1,7 @@
 <a href="https://github.com/mmillenaa">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=F8F8F2&vCenter=true&width=600&lines=Hi!+My+name+is+Millena+Miranda+Franco.;I+am+glad+you+are+here." alt="Typing Animation" />
 </a>
+
 > <img src="icons/README.md/education.png" width="22" align="center" alt="Education"> <img src="icons/README.md/law.jpeg" width="22" align="center" alt="Law"> **Researcher in the field of Education, Law, History, and Digital Humanities.**
 
 > <img src="icons/README.md/usp.png" width="26" align="center" alt="USP"> I am a PhD candidate in Education at the University of São Paulo (USP) and an undergraduate student in Law. My research intersects education and state violence, the memory of the Brazilian civil-military dictatorship, and the preservation of historical collections. I leverage programming and data science to build tools for archival curation, knowledge organization, and social data visualization.
