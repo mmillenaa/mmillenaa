@@ -1,7 +1,7 @@
 ### Hi! My name is Millena Miranda Franco. I am glad you are here.
 #### Researcher in the field of Education, Law, History, and Digital Humanities.
 
-> <img src="icons/README.md/usp.png" width="26" align="center" alt="USP"> I am a PhD candidate in Education at the University of São Paulo (USP) and an undergraduate student in Law. My research intersects education and state violence, the memory of the Brazilian civil-military dictatorship, and the preservation of historical collections. I leverage programming and data science to build tools for archival curation, knowledge organization, and social data visualization.
+> I am a PhD candidate in Education at the University of São Paulo (USP) and an undergraduate student in Law. My research intersects education and state violence, the memory of the Brazilian civil-military dictatorship, and the preservation of historical collections. I leverage programming and data science to build tools for archival curation, knowledge organization, and social data visualization.
 
 ### Languages & technologies
 
