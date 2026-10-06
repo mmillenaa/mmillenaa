@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="60" viewBox="0 0 1200 60" role="img" aria-label="Section divider">
+<rect width="1200" height="60" fill="transparent"/>
+<line x1="48" y1="30.0" x2="495" y2="30.0" stroke="#c7a36b" stroke-width="1.5" opacity="0.7"/>
+<line x1="705" y1="30.0" x2="1152" y2="30.0" stroke="#c7a36b" stroke-width="1.5" opacity="0.7"/>
+<polygon points="535.00,21.00 536.22,27.04 541.36,23.64 537.96,28.78 544.00,30.00 537.96,31.22 541.36,36.36 536.22,32.96 535.00,39.00 533.78,32.96 528.64,36.36 532.04,31.22 526.00,30.00 532.04,28.78 528.64,23.64 533.78,27.04" fill="#c7a36b" opacity="0.9"/>
+<circle cx="490" cy="30.0" r="9" fill="#f1e2c5" stroke="#c7a36b" stroke-width="1.5"/>
+<circle cx="494.95" cy="30.0" r="8.37" fill="#00000000"/>
+<circle cx="545" cy="30.0" r="9" fill="#f1e2c5" stroke="#c7a36b" stroke-width="1.5"/>
+<rect x="545" y="20.0" width="11" height="20" fill="#00000000"/>
+<circle cx="545" cy="30.0" r="9" fill="none" stroke="#c7a36b" stroke-width="1.5"/>
+<circle cx="600" cy="30.0" r="9" fill="#f1e2c5" stroke="#c7a36b" stroke-width="1.5"/>
+<circle cx="604.95" cy="30.00" r="1.2" fill="#c7a36b" opacity="0.45"/>
+<circle cx="603.50" cy="33.50" r="1.2" fill="#c7a36b" opacity="0.45"/>
+<circle cx="600.00" cy="34.95" r="1.2" fill="#c7a36b" opacity="0.45"/>
+<circle cx="596.50" cy="33.50" r="1.2" fill="#c7a36b" opacity="0.45"/>
+<circle cx="595.05" cy="30.00" r="1.2" fill="#c7a36b" opacity="0.45"/>
+<circle cx="596.50" cy="26.50" r="1.2" fill="#c7a36b" opacity="0.45"/>
+<circle cx="600.00" cy="25.05" r="1.2" fill="#c7a36b" opacity="0.45"/>
+<circle cx="603.50" cy="26.50" r="1.2" fill="#c7a36b" opacity="0.45"/>
+<circle cx="655" cy="30.0" r="9" fill="#f1e2c5" stroke="#c7a36b" stroke-width="1.5"/>
+<rect x="644" y="20.0" width="11" height="20" fill="#00000000"/>
+<circle cx="655" cy="30.0" r="9" fill="none" stroke="#c7a36b" stroke-width="1.5"/>
+<circle cx="710" cy="30.0" r="9" fill="#f1e2c5" stroke="#c7a36b" stroke-width="1.5"/>
+<circle cx="705.05" cy="30.0" r="8.37" fill="#00000000"/>
+<polygon points="665.00,21.00 666.22,27.04 671.36,23.64 667.96,28.78 674.00,30.00 667.96,31.22 671.36,36.36 666.22,32.96 665.00,39.00 663.78,32.96 658.64,36.36 662.04,31.22 656.00,30.00 662.04,28.78 658.64,23.64 663.78,27.04" fill="#c7a36b" opacity="0.9"/>
+</svg>

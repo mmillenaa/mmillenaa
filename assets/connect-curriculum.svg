@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="56" viewBox="0 0 250 56" role="img" aria-label="Curriculum button">
+<rect x="1.5" y="1.5" width="247" height="53" rx="15" fill="#09131f" stroke="#c7a36b" stroke-width="1.4"/>
+<rect x="12" y="12" width="36" height="32" rx="10" fill="#0f2034" stroke="#c7a36b" stroke-width="1"/>
+<circle cx="30" cy="28" r="12" fill="#8b5a7a" opacity="0.96"/>
+<text x="30" y="33" text-anchor="middle" fill="#ffffff" font-size="12" font-family="Arial, Helvetica, sans-serif" font-weight="700">CV</text>
+<text x="58" y="34" fill="#f1e2c5" font-size="20" font-family="Georgia, Garamond, serif">Curriculum</text>
+<text x="228" y="34" text-anchor="end" fill="#f1e2c5" font-size="20" font-family="Georgia, Garamond, serif">↗</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Celestial header ornament">
+<rect width="1200" height="110" rx="18" fill="#07111d"/>
+<polygon points="55.00,46.00 56.34,51.77 61.36,48.64 58.23,53.66 64.00,55.00 58.23,56.34 61.36,61.36 56.34,58.23 55.00,64.00 53.66,58.23 48.64,61.36 51.77,56.34 46.00,55.00 51.77,53.66 48.64,48.64 53.66,51.77" fill="#c7a36b" opacity="0.9"/><polygon points="1145.00,46.00 1146.34,51.77 1151.36,48.64 1148.23,53.66 1154.00,55.00 1148.23,56.34 1151.36,61.36 1146.34,58.23 1145.00,64.00 1143.66,58.23 1138.64,61.36 1141.77,56.34 1136.00,55.00 1141.77,53.66 1138.64,48.64 1143.66,51.77" fill="#c7a36b" opacity="0.9"/><polygon points="940.00,23.00 941.15,27.23 944.95,25.05 942.77,28.85 947.00,30.00 942.77,31.15 944.95,34.95 941.15,32.77 940.00,37.00 938.85,32.77 935.05,34.95 937.23,31.15 933.00,30.00 937.23,28.85 935.05,25.05 938.85,27.23" fill="#c7a36b" opacity="0.8"/><polygon points="260.00,21.00 261.15,25.23 264.95,23.05 262.77,26.85 267.00,28.00 262.77,29.15 264.95,32.95 261.15,30.77 260.00,35.00 258.85,30.77 255.05,32.95 257.23,29.15 253.00,28.00 257.23,26.85 255.05,23.05 258.85,25.23" fill="#c7a36b" opacity="0.8"/>
+<path d="M 95 55 L 150 30 L 198 46 L 235 24" fill="none" stroke="#c7a36b" stroke-width="1.7" opacity="0.8"/><circle cx="95" cy="55" r="2.2" fill="#c7a36b"/><circle cx="150" cy="30" r="2.2" fill="#c7a36b"/><circle cx="198" cy="46" r="2.2" fill="#c7a36b"/><circle cx="235" cy="24" r="2.2" fill="#c7a36b"/>
+<path d="M 1105 55 L 1050 30 L 1000 45 L 970 22" fill="none" stroke="#c7a36b" stroke-width="1.7" opacity="0.8"/><circle cx="1105" cy="55" r="2.2" fill="#c7a36b"/><circle cx="1050" cy="30" r="2.2" fill="#c7a36b"/><circle cx="1000" cy="45" r="2.2" fill="#c7a36b"/><circle cx="970" cy="22" r="2.2" fill="#c7a36b"/>
+<line x1="285" y1="55" x2="450" y2="55" stroke="#c7a36b" stroke-width="1.2" opacity="0.5"/>
+<line x1="750" y1="55" x2="915" y2="55" stroke="#c7a36b" stroke-width="1.2" opacity="0.5"/>
+<circle cx="490" cy="55" r="17" fill="#f1e2c5" stroke="#c7a36b" stroke-width="1.5"/>
+<circle cx="499.35" cy="55" r="15.81" fill="#07111d"/>
+<circle cx="545" cy="55" r="17" fill="#f1e2c5" stroke="#c7a36b" stroke-width="1.5"/>
+<rect x="545" y="37" width="19" height="36" fill="#07111d"/>
+<circle cx="545" cy="55" r="17" fill="none" stroke="#c7a36b" stroke-width="1.5"/>
+<circle cx="600" cy="55" r="17" fill="#f1e2c5" stroke="#c7a36b" stroke-width="1.5"/>
+<circle cx="609.35" cy="55.00" r="1.2" fill="#c7a36b" opacity="0.45"/>
+<circle cx="606.61" cy="61.61" r="1.2" fill="#c7a36b" opacity="0.45"/>
+<circle cx="600.00" cy="64.35" r="1.2" fill="#c7a36b" opacity="0.45"/>
+<circle cx="593.39" cy="61.61" r="1.2" fill="#c7a36b" opacity="0.45"/>
+<circle cx="590.65" cy="55.00" r="1.2" fill="#c7a36b" opacity="0.45"/>
+<circle cx="593.39" cy="48.39" r="1.2" fill="#c7a36b" opacity="0.45"/>
+<circle cx="600.00" cy="45.65" r="1.2" fill="#c7a36b" opacity="0.45"/>
+<circle cx="606.61" cy="48.39" r="1.2" fill="#c7a36b" opacity="0.45"/>
+<circle cx="655" cy="55" r="17" fill="#f1e2c5" stroke="#c7a36b" stroke-width="1.5"/>
+<rect x="636" y="37" width="19" height="36" fill="#07111d"/>
+<circle cx="655" cy="55" r="17" fill="none" stroke="#c7a36b" stroke-width="1.5"/>
+<circle cx="710" cy="55" r="17" fill="#f1e2c5" stroke="#c7a36b" stroke-width="1.5"/>
+<circle cx="700.65" cy="55" r="15.81" fill="#07111d"/>
+<circle cx="600" cy="55" r="30" fill="none" stroke="#c7a36b" stroke-width="1" opacity="0.35"/>
+<circle cx="600" cy="55" r="40" fill="none" stroke="#c7a36b" stroke-width="1" opacity="0.18" stroke-dasharray="2 6"/>
+<circle cx="320" cy="55" r="1.8" fill="#f1e2c5" opacity="0.85"/><circle cx="365" cy="35" r="1.8" fill="#f1e2c5" opacity="0.85"/><circle cx="835" cy="72" r="1.8" fill="#f1e2c5" opacity="0.85"/><circle cx="880" cy="42" r="1.8" fill="#f1e2c5" opacity="0.85"/>
+</svg>

@@ -1,0 +1,3 @@
+Updated armillary panels with four special geographic coordinates (rounded to two decimals).
+Updated footer ornaments to remove the previous motto and use "KNOWLEDGE LIBERATES".
+Removed the additional phrase so the Let's connect section stays cleaner.
